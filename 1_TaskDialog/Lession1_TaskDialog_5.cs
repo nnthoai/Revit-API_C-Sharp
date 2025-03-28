@@ -32,7 +32,7 @@ namespace RevitAPI_MEP
             }
 
             // End Code
-            // Kết thúc
+            // Kết thúc dòng code của TakeDialog_5
             return Result.Succeeded;
         }
     }
